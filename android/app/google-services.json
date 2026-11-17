@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971273360483",
+    "project_id": "trivia-cloud-quiz-2026",
+    "storage_bucket": "trivia-cloud-quiz-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971273360483:android:e68cb3fd9123c2b829d456",
+        "android_client_info": {
+          "package_name": "com.example.trivia_showdown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWbS8yHoawl6wBLYpYtEcVr425NcTLy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
