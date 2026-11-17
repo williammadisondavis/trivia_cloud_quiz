@@ -1,1 +1,36 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"trivia-cloud-quiz-2026","appId":"1:971273360483:android:e68cb3fd9123c2b829d456","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"trivia-cloud-quiz-2026","configurations":{"android":"1:971273360483:android:e68cb3fd9123c2b829d456"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "trivia-cloud-quiz-2026",
+          "appId": "1:971273360483:android:e68cb3fd9123c2b829d456",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "trivia-cloud-quiz-2026",
+          "configurations": {
+            "android": "1:971273360483:android:e68cb3fd9123c2b829d456"
+          }
+        }
+      }
+    }
+  },
+  "emulators": {
+    "singleProjectMode": true,
+    "firestore": {
+      "port": 8080
+    },
+    "ui": {
+      "enabled": true
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "nam5",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
